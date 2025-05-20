@@ -1,20 +1,16 @@
 exports.COLOR_THEMES = {
   default: {
     colors: {
-      primary: '#7D7AFF',
-      'gradient-1': '#7d7aff',
-      'gradient-2': '#2121e2',
-      'gradient-3': '#00fff0',
-      'gradient-4': '#8785FF',
+      primary: '##1e3464',
+      'gradient-1': '#1e3464',
+    
     },
   },
   bejamas: {
     colors: {
       primary: '#FF8585',
       'gradient-1': '#7d7aff',
-      'gradient-2': '#2121E2',
-      'gradient-3': '#FF76B8',
-      'gradient-4': '#001AFF',
+
     },
   },
   netlify: {
